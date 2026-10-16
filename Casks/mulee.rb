@@ -1,6 +1,6 @@
 cask "mulee" do
-  version "0.1.7"
-  sha256 "b184600c8274152aded312d2e3cdb48b1d03116ba5596c66293403884b56087d"
+  version "0.1.8"
+  sha256 "777c033bd093c311d04593cc5b37b03b781af0c07173a460a6c2c18eb4d1423c"
 
   url "https://github.com/cqagc/mulee/releases/download/v#{version}/Mulee-#{version}.dmg"
   name "Mulee"
