@@ -5,7 +5,7 @@ cask "mulee" do
   url "https://github.com/cqagc/mulee/releases/download/v#{version}/Mulee-#{version}.dmg"
   name "Mulee"
   desc "Downloader for HTTP, BitTorrent, eD2k and video sites"
-  homepage "https://github.com/cqagc/mulee"
+  homepage "https://www.cqagc.com/en/mulee"
 
   livecheck do
     url :url
